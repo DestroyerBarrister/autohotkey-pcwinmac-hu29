@@ -1,4 +1,4 @@
-# 
+# 专业 AutoHotkey 模板 Mac OS版 | 安全 AutoHotkey 模板 PC Windows版。集成 自定义清理配置 和 浏览器清理，跨平台性能最大化。
 
 
 
